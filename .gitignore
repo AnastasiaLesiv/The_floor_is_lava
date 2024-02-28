@@ -1,7 +1,12 @@
 Library/
 Logs/
-Packages/
-ProjectSettings/
+.idea/
+.plastic/
+Assembly-CSharp.csproj
+ignore.conf
+obj/
+
+
 Temp/
 UserSettings/
 The.sln
