@@ -5,6 +5,7 @@ Logs/
 Assembly-CSharp.csproj
 ignore.conf
 obj/
+mono_crash.mem.4760.1.blob
 
 
 Temp/
